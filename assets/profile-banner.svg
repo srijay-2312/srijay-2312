@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Srijay M. — Build, Learn, Innovate">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b10"/>
+      <stop offset=".58" stop-color="#17191e"/>
+      <stop offset="1" stop-color="#281407"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5a00"/>
+      <stop offset="1" stop-color="#ffb347"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="58%" r="55%">
+      <stop offset="0" stop-color="#b84a0a" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#b84a0a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#glow)"/>
+  <g fill="none" stroke="#ff7a1a" stroke-opacity=".18">
+    <path d="M760 320 1010 70 1100 70 1280 0" stroke-width="2"/>
+    <path d="M890 320 1140 70 1220 70 1280 10" stroke-width="1"/>
+    <path d="M0 265 220 45 300 45" stroke-width="1"/>
+  </g>
+  <path d="M620 320 800 170 890 230 1000 120 1115 235 1190 170 1280 245V320Z" fill="#0b0d12" opacity=".85"/>
+  <path d="M700 320 850 205 930 265 1030 160 1120 250 1190 195 1280 270" fill="none" stroke="#ff7a1a" stroke-opacity=".42" stroke-width="2"/>
+  <path d="M48 84H190" stroke="url(#ember)" stroke-width="4" stroke-linecap="round"/>
+  <text x="48" y="155" fill="#f5f5f5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="1">SRIJAY M.</text>
+  <text x="50" y="204" fill="#d7d7d7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" letter-spacing="2">BUILD  <tspan fill="#ff7a1a">•</tspan>  LEARN  <tspan fill="#ff7a1a">•</tspan>  INNOVATE</text>
+  <text x="50" y="252" fill="#a9abb2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Full-Stack Development  /  AI &amp; ML  /  Cybersecurity</text>
+  <g transform="translate(1100 92)">
+    <circle cx="72" cy="72" r="68" fill="#0b0d12" stroke="url(#ember)" stroke-width="3"/>
+    <text x="72" y="91" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="62" font-weight="800">SJ</text>
+  </g>
+  <rect x="1" y="1" width="1278" height="318" rx="21" fill="none" stroke="#44464d"/>
+</svg>
