@@ -81,9 +81,13 @@
 
 <h2>📊 GitHub Overview</h2>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srijay-2312&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff7a1a&amp;icon_color=ff7a1a&amp;text_color=e6e6e6&amp;ring_color=ff7a1a" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijay-2312&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=ff7a1a&amp;text_color=e6e6e6" alt="Top languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijay-2312&amp;bg_color=0d1117&amp;color=ff9a3c&amp;line=ff7a1a&amp;point=ffd08a&amp;area=true&amp;hide_border=true" width="100%" alt="Orange activity graph"/>
+<img src="assets/github-overview.svg" width="100%" alt="GitHub overview: projects, activity and tech focus"/>
+<p>
+<a href="https://github.com/srijay-2312?tab=repositories">Explore repositories</a> ·
+<a href="https://github.com/srijay-2312">View live contribution calendar</a> ·
+<a href="https://github.com/srijay-2312?tab=stars">Browse starred projects</a>
+</p>
 </div>
+
 <hr/>
 <div align="center"><b>BUILD. LEARN. INNOVATE.</b><br/><sub>Obsidian &amp; Ember · © Srijay M.</sub></div>
