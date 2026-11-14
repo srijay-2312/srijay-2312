@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Srijay M. — Build, Learn, Innovate" width="100%"/>
+
 # SRIJAY M.
 
-### Full-Stack Developer · AI/ML Enthusiast · Cybersecurity Learner
+### Java Full-Stack Developer | React & Spring Boot | AI/ML Enthusiast | CSE '28
 
-Building useful software at the intersection of **web development, AI, and security**.
+Building useful software at the intersection of **full-stack development, applied AI, and cybersecurity**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-srijay--2312-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijay-2312)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=%23ff7a3d)](https://www.linkedin.com/in/srijay-m-5679a8328/)
@@ -16,9 +18,9 @@ Building useful software at the intersection of **web development, AI, and secur
 ## About
 
 - 🎓 Computer Science and Engineering student at **Knowledge Institute of Technology**
-- 💻 Interested in building end-to-end applications with **Java, Spring Boot, React, and MySQL**
+- 💻 Building end-to-end applications with **Java, Spring Boot, React, and MySQL**
 - 🤖 Exploring applied **AI/ML** and practical **cybersecurity**
-- 🌱 Focused on writing clean code, learning through projects, and improving software design
+- 🌱 Focused on clean code, software design, and learning through hands-on projects
 
 ## Tech Stack
 
@@ -74,7 +76,7 @@ Building useful software at the intersection of **web development, AI, and secur
     </td>
     <td width="50%">
       <h3>🚀 More projects</h3>
-      Explore my repositories for more development experiments and builds.
+      Explore more development projects and experiments.
       <br/><br/>
       <a href="https://github.com/srijay-2312?tab=repositories">Explore repositories →</a>
     </td>
@@ -99,7 +101,7 @@ Building useful software at the intersection of **web development, AI, and secur
 
 <div align="center">
 
-**“Build. Learn. Improve. Repeat.”**
+**Build. Learn. Innovate.**
 
 <sub>Designed with an Obsidian & Ember palette · © Srijay M.</sub>
 
