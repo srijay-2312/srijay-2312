@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250" role="img" aria-label="GitHub overview: projects, activity and technology focus">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#21150f"/></linearGradient><linearGradient id="ember"><stop stop-color="#ff6a00"/><stop offset="1" stop-color="#ffb15c"/></linearGradient></defs>
+<rect width="1100" height="250" rx="18" fill="url(#bg)" stroke="#343b45"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="36" y="48" fill="#f3f4f6" font-size="24" font-weight="700">GITHUB OVERVIEW</text>
+<path d="M36 66H1064" stroke="#414650"/>
+<g>
+<rect x="36" y="91" width="320" height="119" rx="13" fill="#14191f" stroke="#5a3825"/>
+<circle cx="69" cy="126" r="13" fill="url(#ember)"/>
+<text x="94" y="133" fill="#ff9a45" font-size="17" font-weight="700">PROJECTS</text>
+<text x="58" y="169" fill="#f1f3f5" font-size="18" font-weight="600">Explore my repositories</text>
+<text x="58" y="192" fill="#aeb5bf" font-size="13">Applications · Experiments · Builds</text>
+</g>
+<g>
+<rect x="390" y="91" width="320" height="119" rx="13" fill="#14191f" stroke="#5a3825"/>
+<circle cx="423" cy="126" r="13" fill="url(#ember)"/>
+<text x="448" y="133" fill="#ff9a45" font-size="17" font-weight="700">ACTIVITY</text>
+<text x="412" y="169" fill="#f1f3f5" font-size="18" font-weight="600">Follow my contribution journey</text>
+<text x="412" y="192" fill="#aeb5bf" font-size="13">See the live calendar on my profile</text>
+</g>
+<g>
+<rect x="744" y="91" width="320" height="119" rx="13" fill="#14191f" stroke="#5a3825"/>
+<circle cx="777" cy="126" r="13" fill="url(#ember)"/>
+<text x="802" y="133" fill="#ff9a45" font-size="17" font-weight="700">TECH FOCUS</text>
+<text x="766" y="169" fill="#f1f3f5" font-size="18" font-weight="600">Java · React · Python</text>
+<text x="766" y="192" fill="#aeb5bf" font-size="13">Spring Boot · AI/ML · MySQL</text>
+</g>
+</g></svg>
