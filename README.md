@@ -15,85 +15,112 @@ Building useful software at the intersection of **full-stack development, applie
 
 ---
 
-## About
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-- 🎓 Computer Science and Engineering student at **Knowledge Institute of Technology**
-- 💻 Building end-to-end applications with **Java, Spring Boot, React, and MySQL**
-- 🤖 Exploring applied **AI/ML** and practical **cybersecurity**
-- 🌱 Focused on clean code, software design, and learning through hands-on projects
+## 🟠 About
 
-## Tech Stack
+Computer Science and Engineering student at **Knowledge Institute of Technology**, interested in building intelligent, scalable, and secure software.
+
+- Full-stack development with Java, Spring Boot, React, and MySQL
+- Exploring applied AI/ML and practical cybersecurity
+- Focused on clean code, software design, and hands-on learning
+
+**Focus areas**
+
+![Full Stack](https://img.shields.io/badge/Full--Stack_Development-171717?style=flat-square&logo=code&logoColor=%23ff7a3d)
+![AI ML](https://img.shields.io/badge/AI_%2F_ML-171717?style=flat-square&logo=probot&logoColor=%23ff7a3d)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-171717?style=flat-square&logo=security&logoColor=%23ff7a3d)
+
+    </td>
+    <td width="38%" valign="top">
+
+## 🛠 Tech Stack
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=%23ff7a3d)
 ![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=%23ff7a3d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=%23ff7a3d)
-![C](https://img.shields.io/badge/C-171717?style=flat-square&logo=c&logoColor=%23ff7a3d)
-![C++](https://img.shields.io/badge/C++-171717?style=flat-square&logo=cplusplus&logoColor=%23ff7a3d)
-![CSharp](https://img.shields.io/badge/C%23-171717?style=flat-square&logo=csharp&logoColor=%23ff7a3d)
+![C/C++](https://img.shields.io/badge/C%2FC++-171717?style=flat-square&logo=cplusplus&logoColor=%23ff7a3d)
 
-**Frontend & Backend**
+**Development**
 
 ![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=%23ff7a3d)
-![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=%23ff7a3d)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171717?style=flat-square&logo=tailwindcss&logoColor=%23ff7a3d)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=%23ff7a3d)
-![Spring Security](https://img.shields.io/badge/Spring_Security-171717?style=flat-square&logo=springsecurity&logoColor=%23ff7a3d)
-![REST API](https://img.shields.io/badge/REST_APIs-171717?style=flat-square&logo=fastapi&logoColor=%23ff7a3d)
-
-**Databases & AI/ML**
-
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-171717?style=flat-square&logo=tailwindcss&logoColor=%23ff7a3d)
 ![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=%23ff7a3d)
 ![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=%23ff7a3d)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikitlearn&logoColor=%23ff7a3d)
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-171717?style=flat-square&logo=onnx&logoColor=%23ff7a3d)
-![Groq](https://img.shields.io/badge/Groq_API-171717?style=flat-square&logo=groq&logoColor=%23ff7a3d)
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ ShieldAI PC</h3>
-      Offline AI-assisted cybersecurity toolkit with phishing detection and URL analysis.
-      <br/><br/>
-      <a href="https://github.com/srijay-2312/ShieldAI-PC">View repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🧭 PathFinder AI</h3>
-      Personalized learning roadmap platform built with React, Spring Boot, and MySQL.
-      <br/><br/>
-      <a href="https://github.com/srijay-2312/PathFinder-AI">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔐 PassGuard</h3>
-      Client-side password strength analyzer.
-      <br/><br/>
-      <a href="https://github.com/srijay-2312/Password-Strength-Analyser">View repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🚀 More projects</h3>
-      Explore more development projects and experiments.
-      <br/><br/>
-      <a href="https://github.com/srijay-2312?tab=repositories">Explore repositories →</a>
     </td>
   </tr>
 </table>
 
-## Experience
+## 🚀 Featured Projects
 
-- **Java Full-Stack Developer Intern** — FirstMatrix Solution · Jun 2026
-- **Frontend Developer Intern** — Cognifyz Technologies · Dec 2025 – Jan 2026
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## GitHub Overview
+### 🧭 [PathFinder AI](https://github.com/srijay-2312/PathFinder-AI)
+
+Personalized learning roadmap platform with Groq-assisted guidance and prerequisite-aware progression.
+
+**React · Spring Boot · MySQL**
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🛡️ [ShieldAI PC](https://github.com/srijay-2312/ShieldAI-PC)
+
+Offline AI-assisted cybersecurity toolkit with phishing detection and URL analysis.
+
+**AI/ML · ONNX Runtime · Python**
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔐 [PassGuard](https://github.com/srijay-2312/Password-Strength-Analyser)
+
+Client-side password strength analyzer.
+
+**JavaScript · Frontend**
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🏥 [CityCare Hospital System](https://github.com/srijay-2312/CityCare-Hospital-System)
+
+Hospital management system built with Java web technologies.
+
+**Java · JSP · MySQL**
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/srijay-2312?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Java Full-Stack Developer Intern | FirstMatrix Solution | Jun 2026 |
+| Frontend Developer Intern | Cognifyz Technologies | Dec 2025 – Jan 2026 |
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srijay-2312&show_icons=true&hide_border=true&bg_color=111111&title_color=ff7a3d&icon_color=ff7a3d&text_color=e6e6e6&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijay-2312&layout=compact&hide_border=true&bg_color=111111&title_color=ff7a3d&text_color=e6e6e6" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srijay-2312&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff7a1a&icon_color=ff7a1a&text_color=e6e6e6&ring_color=ff7a1a" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijay-2312&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7a1a&text_color=e6e6e6" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijay-2312&bg_color=0d1117&color=ff9a3c&line=ff7a1a&point=ffd08a&area=true&hide_border=true" width="100%" alt="Contribution activity graph in orange"/>
 
 </div>
 
@@ -101,8 +128,8 @@ Building useful software at the intersection of **full-stack development, applie
 
 <div align="center">
 
-**Build. Learn. Innovate.**
+**BUILD. LEARN. INNOVATE.**
 
-<sub>Designed with an Obsidian & Ember palette · © Srijay M.</sub>
+<sub>Obsidian & Ember · © Srijay M.</sub>
 
 </div>
