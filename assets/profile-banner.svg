@@ -1,35 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Srijay M. — Build, Learn, Innovate">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090b10"/>
-      <stop offset=".58" stop-color="#17191e"/>
-      <stop offset="1" stop-color="#281407"/>
-    </linearGradient>
-    <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff5a00"/>
-      <stop offset="1" stop-color="#ffb347"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="58%" r="55%">
-      <stop offset="0" stop-color="#b84a0a" stop-opacity=".48"/>
-      <stop offset="1" stop-color="#b84a0a" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1280" height="320" rx="22" fill="url(#glow)"/>
-  <g fill="none" stroke="#ff7a1a" stroke-opacity=".18">
-    <path d="M760 320 1010 70 1100 70 1280 0" stroke-width="2"/>
-    <path d="M890 320 1140 70 1220 70 1280 10" stroke-width="1"/>
-    <path d="M0 265 220 45 300 45" stroke-width="1"/>
-  </g>
-  <path d="M620 320 800 170 890 230 1000 120 1115 235 1190 170 1280 245V320Z" fill="#0b0d12" opacity=".85"/>
-  <path d="M700 320 850 205 930 265 1030 160 1120 250 1190 195 1280 270" fill="none" stroke="#ff7a1a" stroke-opacity=".42" stroke-width="2"/>
-  <path d="M48 84H190" stroke="url(#ember)" stroke-width="4" stroke-linecap="round"/>
-  <text x="48" y="155" fill="#f5f5f5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="1">SRIJAY M.</text>
-  <text x="50" y="204" fill="#d7d7d7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" letter-spacing="2">BUILD  <tspan fill="#ff7a1a">•</tspan>  LEARN  <tspan fill="#ff7a1a">•</tspan>  INNOVATE</text>
-  <text x="50" y="252" fill="#a9abb2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Full-Stack Development  /  AI &amp; ML  /  Cybersecurity</text>
-  <g transform="translate(1100 92)">
-    <circle cx="72" cy="72" r="68" fill="#0b0d12" stroke="url(#ember)" stroke-width="3"/>
-    <text x="72" y="91" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="62" font-weight="800">SJ</text>
-  </g>
-  <rect x="1" y="1" width="1278" height="318" rx="21" fill="none" stroke="#44464d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Build Learn Innovate">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#090b10"/><stop offset=".58" stop-color="#321807"/><stop offset="1" stop-color="#f07813"/></linearGradient>
+ <radialGradient id="sun"><stop stop-color="#ffb347" stop-opacity=".75"/><stop offset="1" stop-color="#ff6500" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="320" rx="20" fill="url(#sky)"/>
+<circle cx="900" cy="205" r="180" fill="url(#sun)"/>
+<path d="M0 255 115 175 195 226 310 130 405 230 520 145 630 255 760 130 875 250 1000 120 1120 238 1210 150 1280 205V320H0Z" fill="#101116"/>
+<path d="m0 280 160-92 115 75 150-105 135 110 155-115 145 115 145-125 125 115 150-92v154H0Z" fill="#080a0f"/>
+<path d="M0 285 160 193 275 268 425 163 560 273 715 158 860 273 1005 148 1130 263 1280 171" fill="none" stroke="#ff8a1a" stroke-opacity=".45" stroke-width="2"/>
+<g stroke="#ff8a1a" stroke-opacity=".32" fill="none"><path d="M0 0 190 0 0 190M1280 0 1090 190M1280 80 1160 200" stroke-width="2"/></g>
+<g transform="translate(770 95)" fill="#08090c"><circle cx="0" cy="0" r="7"/><path d="M-5 8h10l5 30h-20zM-4 38h4l-3 25h-4zm8 0h4l6 25h-4z"/></g>
+<text x="52" y="116" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#f4f4f5">Build <tspan fill="#ff8a00">•</tspan> Learn <tspan fill="#ff8a00">•</tspan> Innovate</text>
+<text x="52" y="158" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#e1e1e1">JAVA FULL-STACK  /  AI &amp; ML  /  WEB DEVELOPMENT</text>
+<text x="1110" y="105" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#ff8a00">&lt;/&gt;</text>
+<rect x="1" y="1" width="1278" height="318" rx="19" fill="none" stroke="#4b3828"/>
 </svg>
